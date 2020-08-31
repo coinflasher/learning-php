@@ -1,4 +1,5 @@
 <?php
 
-echo gethostname();
-echo "<BR>";
+$myhostname = gethostname();
+
+print "$myhostname\n";
