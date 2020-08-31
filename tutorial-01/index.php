@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello, James';
+echo 'Hello World | ver. 1.0';
